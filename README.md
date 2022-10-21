@@ -17,6 +17,8 @@ youtube channels to provide them with artwork. Since then I have lost interest i
 
 I plan on continuing this path as my major and to hopefully become a software engineer after college.
 
+<img src="https://octodex.github.com/images/octonaut.jpg" height=200px width=200px>
+
 ### Navigation
 __[Back to Home](https://github.com/noahmcallister04/Home-Page)__
 
