@@ -22,4 +22,4 @@ I plan on continuing this path as my major and to hopefully become a software en
 ### Navigation
 __[Back to Home](https://github.com/noahmcallister04/Home-Page)__
 
-__[Continue to Next Page]()__
+__[Continue to Next Page](https://github.com/noahmcallister04/fizzbuzz-solution)__
